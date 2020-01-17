@@ -1,0 +1,26 @@
+.center {
+    text-align: center;
+}
+
+div.center {
+    display: inline-block;
+}
+
+.section {
+    text-align: center;
+    padding: 8rem 0 7rem;
+}
+
+body {
+    background-color: lightpink;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-weight: bold;
+}
+
+.button {
+    border-radius: 100px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
