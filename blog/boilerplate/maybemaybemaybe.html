@@ -4,15 +4,16 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="../../css/main.css">
         <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-        <title>Blog - NAME</title>
+        <title>Blog - Maybe Maybe Maybe</title>
     </head>
     <body>
         <div id="content"></div>
         <script defer>
             var xhr = new XMLHttpRequest();
 
-            var markdown = "";
+            var markdown;
 
             xhr.onreadystatechange = function() {
                 if (xhr.readyState == 4 && xhr.status == 200) {
@@ -22,8 +23,15 @@
                     document.getElementById('content').innerHTML = marked(markdown);
                 }
             }
-            xhr.open('GET', '../markdown/test.md');
+            xhr.open('GET', '../markdown/maybemaybemaybe.md');
             xhr.send();
-            </script>
+        </script>
+        <noscript>
+            <p>
+                Hey! I use javascipt to render the markdown that I write these posts in.
+                If you want to read the post here, you'll need to enable scripting.
+                I'm not doing anything funky, you can check for yourself at github.com/TheExistingOne/TheExistingOne.github.io. 
+            </p>
+        </noscript>
     </body>
 </html>

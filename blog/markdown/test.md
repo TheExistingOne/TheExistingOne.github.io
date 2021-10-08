@@ -1,3 +1,0 @@
-# Test Blog
-## by Mia
-
