@@ -20,7 +20,7 @@
                     console.log(markdown);
                 }
             }
-            xhr.open('GET', 'sample');
+            xhr.open('GET', '../markdown/test.md');
             xhr.send();
 
             document.getElementById('content').innerHTML = marked('# Marked in browser. Rendered by **marked**.');
