@@ -1,3 +1,3 @@
 # Test Blog
-## by Mia Greer
+## by Mia
 
