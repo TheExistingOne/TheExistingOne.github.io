@@ -17,13 +17,13 @@
             xhr.onreadystatechange = function() {
                 if (xhr.readyState == 4 && xhr.status == 200) {
                     markdown = xhr.responseText;
+                    
+                    console.log(markdown);
+                    document.getElementById('content').innerHTML = marked(markdown);
                 }
             }
             xhr.open('GET', '../markdown/test.md');
             xhr.send();
-
-            console.log(markdown);
-            document.getElementById('content').innerHTML = marked(markdown);
-        </script>
+            </script>
     </body>
 </html>
