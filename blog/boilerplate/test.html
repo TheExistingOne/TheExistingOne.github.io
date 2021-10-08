@@ -4,12 +4,12 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
         <title>Blog - NAME</title>
     </head>
     <body>
         <div id="content"></div>
-        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-        <script>
+        <script defer>
             var xhr = new XMLHttpRequest();
 
             var markdown = "";
@@ -17,12 +17,12 @@
             xhr.onreadystatechange = function() {
                 if (xhr.readyState == 4 && xhr.status == 200) {
                     markdown = xhr.responseText;
+                    console.log(markdown);
                 }
             }
-            xhr.open('GET', '../markdown/test.md');
+            xhr.open('GET', 'sample');
             xhr.send();
 
-            console.log(markdown);
             document.getElementById('content').innerHTML = marked('# Marked in browser. Rendered by **marked**.');
         </script>
     </body>
