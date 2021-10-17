@@ -33,7 +33,7 @@ genRenderer () {
     <body>
         <div class=\"container is-fluid\">
             <div id=\"content\"></div>
-        <\div>
+        </div>
         <script defer>
             var xhr = new XMLHttpRequest();
 
