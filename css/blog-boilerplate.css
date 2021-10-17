@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap");
+
+/* Header 1 */
+h1 {
+    color: #363636;
+    font-size: 2.5rem;
+    font-weight: 600;
+    line-height: 1.125;
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+}
+
+/* Header 2 */
+h2 {
+    color: #363636;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.125;
+}
+
+/* Header 3 */
+h3 {
+    color: #363636;
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 1.125;
+}
+
+/* Header 4 */
+h4 {
+    color: #363636;
+    font-size: 1.25rem;
+    font-weight: 600;
+    line-height: 1.125;
+}
+
+/* Header 5 */
+h5 {
+    color: #363636;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.125;
+}
+
+/* Header 6 */
+h6 {
+    color: #363636;
+    font-size: 0.75rem;
+    font-weight: 600;
+    line-height: 1.125;
+}
+
+/* Paragraph */
+p {
+
+}
+
+/* Link */
+a {
+
+}

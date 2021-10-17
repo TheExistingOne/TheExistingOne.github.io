@@ -11,23 +11,29 @@ genMarkdown () {
     echo "# ${name}" >> ./blog/markdown/${filename}.md
     echo "## by Mia G." >> ./blog/markdown/${filename}.md
     echo "" >> ./blog/markdown/${filename}.md
+    echo "<hr>" >> ./blog/markdown/${filename}.md
+    echo "" >> ./blog/markdown/${filename}.md
 
     echo "Created markdown file at ./blog/markdown/${filename}.md"
 }
 
 genRenderer () {
-    echo "Created boilerplate renderer at ./blog/boilerplate/${filename}.html"
+    touch ./blog/boilerplate/${filename}.html
     echo "<!DOCTYPE html> 
 <html lang=\"en_US\"> 
     <head>
         <meta charset=\"utf-8\">
         <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">
         <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
+        <link rel=\"stylesheet\" href=\"../../css/main.css\">
+        <link rel=\"stylesheet\" href=\"../../css/blog-boilerplate.css\">
         <script src=\"https://cdn.jsdelivr.net/npm/marked/marked.min.js\"></script>
         <title>Blog - ${name}</title>
     </head>
     <body>
-        <div id=\"content\"></div>
+        <div class=\"container is-fluid\">
+            <div id=\"content\"></div>
+        <\div>
         <script defer>
             var xhr = new XMLHttpRequest();
 
@@ -53,6 +59,7 @@ genRenderer () {
         </noscript>
     </body>
 </html>" >> ./blog/boilerplate/${filename}.html
+    echo "Created boilerplate renderer at ./blog/boilerplate/${filename}.html"
 }
 
 append () {
