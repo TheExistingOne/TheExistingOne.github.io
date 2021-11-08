@@ -137,6 +137,7 @@ blockquote {
 li {
     color:white;
     margin-left: 1.5em;
+    font-family: "Raleway", Arial, serif;
 }
 
 code {
@@ -144,4 +145,49 @@ code {
     color: #03DAC6;
     border-radius: 0.25rem;
     font-family: 'Source Code Pro', monospace;
+}
+
+/* Align icons to the far right of the page*/
+.icon-align-right {
+    float: right;
+    padding-left: 1rem;
+}
+
+/* Create seperate colored reason with large bold text for the header with no margins */
+.header {
+    font-size: 2.5rem;
+    font-weight: 600;
+    line-height: 1.125;
+    background-color: #BB86FC;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-left: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+/* Change color of h1 to black and disable their top margin inside divs with the header class */
+.header h1 {
+    color: #121212;
+    margin-top: 0;
+    padding-top: 1em;
+}
+
+.header h3 {
+    color: #121212;
+    margin-top: 0;
+}
+
+.header strong {
+    font-family: "Raleway", Arial, serif;
+    color: #121212;
+    font-size: 1.5rem;
+}
+
+.header p {
+    color: #121212;
+    font-size: 1.5rem;
+}
+
+.projects li {
+    clear: right;
 }
