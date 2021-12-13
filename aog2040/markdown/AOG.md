@@ -48,11 +48,11 @@ Realizing that even though the FDA had approved research it would still be diffi
 
 ## GenTech 1st Generation Mods Enter Human Testing
 ### Apr 05, 2031
-2 years after starting research, GenTech had gene mods ready to go. Having been successfully tested on animals (Although not without some mistakes GenTech had to supress), they were submitted for FDA approval. The initial roundup included Hair color, bioluminecense, and increased flexibility & strength.
+2 years after starting research, GenTech had gene mods ready to go. Having been successfully tested on animals (Although not without some mistakes GenTech had to supress), they were submitted for FDA approval. The initial roundup included hair color, bioluminecense, and increased flexibility & strength.
 
 ## FDA Announces Approval of GenTech Mods
 ### Dec 21, 2031
-With human testing completed and with some more pressure from the ADA, the FDA declared the mods safe for human use and cleared GenTech to release them.
+With human testing completed and with some more pressure from the AGA, the FDA declared the mods safe for human use and cleared GenTech to release them.
 
 ## GenTech Celebrates Sale of 500 Millionth Gene Mod
 ### Jan 25, 2034
@@ -64,11 +64,11 @@ Unable to ignore the growing issue any longer, the CDC labels Johnsons Syndrome 
 
 ## Treatment for Johnsons Syndrome Made Available
 ### May 30, 2037
-The ADA announces that GenTech has developed a treatment for Johnsons Syndrome. Although successful, the treatment was very expensive and had to be taken continously. Gentech was critisized heavily for this, but they defeneded themselves stating that they must offset development and manufacturing costs.
+The AGA announces that GenTech has developed a treatment for Johnsons Syndrome. Although successful, the treatment is very expensive and has to be taken continously. Gentech is critisized heavily for this, but they defened themselves stating that they must offset development and manufacturing costs.
 
 ## Genetic Information Non-descrimination Act (GINA) Repealed
 ### Sep 24, 2040
-As Johnsons Syndrome, although still prevalent, dies down into being considered just a part of society, the outgoing administration announces a final major piece of legeslation: the repealing of GINA. With modding common, legal protections gone, and tensions high, society looks towards the future of genetics.
+Although still prevalent, Johnsons Syndrome begins to fade into the background as "just a part of society". GenTech still retains an iron grip over gene mods, but some biohackers and hobbiests have started trying to figure them out. The AGA still retains public favor, but it's clear their grip is slipping. As the election approaches, the outgoing administration announces a final piece of legeslation: the repealing of GINA, citing labor and health benefits. With modding common, legal protections gone, and tensions high, society looks towards the future of genetics.
 
 ---
 # Organizations
@@ -86,12 +86,12 @@ Founded by a number of genetics companies in 2029, the AGA is a titan of a lobby
 ## FDA
 ### Founded 6/30/1906
 ### Description
-The US Food and Drug administration. As they're responsible for approving mods, they've recieved the brunt of the AGA's lobbying. 
+The US Food and Drug Administration. As they're responsible for approving mods, they've recieved the brunt of the AGA's lobbying. 
 
 ## CDC
 ### Founded 7/1/1946
 ### Description
-The Center for Disease Control is responsible for managing diseases, including genetic diseases after that was delegated to them with the rise of Johnsons syndrome. Despite attempting to remain uninfluenced, they too have fallen under the AGA's thumb.
+The Center for Disease Control is responsible for managing diseases, including genetic diseases after that was delegated to them with the rise of Johnsons Syndrome. Despite attempting to remain uninfluenced, they too have fallen under the AGA's thumb.
 
 ## NeverMod
 ### Founded 6/15/2032
@@ -102,9 +102,9 @@ NeverMod is a protest group dedicated to fighting the rise of modding. They've o
 # Additional Info
 
 ## Johnsons Syndrome
-Johnsons syndrome is a debilitating condition caused by a failed gene mod. It generally has an onset of aroWund 1 year and initially manifests as tissue soreness and discoloration followed by rapid apoptosis. Initially identified by doctors in mid 2032 when Andrews Johnson reported to the ER with seeming tissue, it was reasonably supressed by the AGA and GenTech until 2035 when the issue became too major to ignore and was declared a public health crisis by the CDC. 
+Johnsons syndrome is a debilitating condition caused by a failed gene mod. It generally has an onset of around 1 year and initially manifests as tissue soreness and discoloration followed by rapid apoptosis. Initially identified by doctors in mid 2032 when Andrews Johnson reported to the ER with seeming tissue, it was reasonably supressed by the AGA and GenTech until 2035 when the issue became too major to ignore and was declared a public health crisis by the CDC. 
 
-While the exact specifics of how the condition manifest are not understood it is generally considered to be related to the genes that control miotic division. Most gene mods require a full miotic cycle to manifest which can take months. To accelerate this, mods also make a temporary modification to the miotic cycle of the cell, causing miosis to be drastically accelerated. In some cases, a faulty mod can cause an overactivation of CRISPR leading the cell to rapidly age out of control. 
+While the exact specifics of how the condition manifest are not understood it is generally considered to be related to the genes that control miotic division. Most gene mods require a full miotic cycle to manifest which can take months. To accelerate this, mods also make a temporary modification to the miotic cycle of the cell, causing miosis to be drastically accelerated. In some cases, a faulty mod can cause an overactivation of CRISPR leading the cell to rapidly age out of control. The condition is more common among frequent mod users as it provides more opportunities for the mutation to arise.
 
 Although initially untreatable, GenTech did develop a treatment in 2037. The treatment however was extremely expensive and many people were unable to afford it. Making things worse, it only treated the condition, and had to be taken continuously. 
 
@@ -116,13 +116,13 @@ NeverMod held their largest ever protest in 2034 during GenTech's celebration of
 ---
 # Addendum
 
-As mentioned at the top of this work, what you have just read is a piece of worldbuilding for a potential future with CRISPR. Now that you've seen the story, I'd like to discuss some of the inspirations and background. The inspiration for GenTech and the ADA is fairly simple. I drew inspiration from a handful of alleged scandals and a handful of BioTech companies. Specifically, the extreme cost of insulin due to the total market domination inspired portions of the treatment for Johnsons Syndrome, and the scandal where nestle allegedly lied to parents in 3rd world countries to get them hooked on formula inspired their general total disregard of ethics in favor of profit.
+As mentioned at the top of this work, what you have just read is a piece of worldbuilding for a potential future with CRISPR. Now that you've seen the story, I'd like to discuss some of the inspirations and background. The inspiration for GenTech and the AGA is fairly simple. I drew inspiration from a handful of scandals and a handful of BioTech companies. Specifically, the extreme cost of insulin due to the total market domination inspired portions of the treatment for Johnsons Syndrome, and the scandal where nestle lied to parents in 3rd world countries to get them hooked on formula inspired their general total disregard of ethics in favor of profit.
 
-I also did a fair bit of reading on human gene editing and the risks of it. I specifically looked quite a bit at the 2018 "CRISPR Babies" case where a chinease scientist attempted to induce HIV resistance in 2 embryos by using CRISPR to create a mutation similar to CCR5-Δ32, a naturally occuring mutation. Although he declared himself successful, his own data points to numerous mistakes and potential issues. This helped reinforce just how wrong CRISPR editing could go at scale.
+I also did a great deal of reading on human gene editing and the risks of it. I specifically looked at the 2018 "CRISPR Babies" case where a chinease scientist attempted to induce HIV resistance in 2 embryos by using CRISPR to create a mutation similar to CCR5-Δ32, a naturally occuring mutation. Although he declared himself successful, his own data points to numerous mistakes and potential issues. This helped reinforce just how wrong CRISPR editing could go at scale.
 
-On Johnsons Syndrome itself, that wound up deriving from a bunch of different little ideas. The first thing I came up with was actually the colloquialism "Modder's Rot", followed pretty quickly by the primary symptom, cell death. I then worked up a reasonably plausible mutation that could go awry. After running a draft by my science teacher, she pointed out to me that the mutation would likely be to the regulatory systems of miotic division. Finally while I was researching, I came across the fact that CRISPR can fail to deactivate which worked perfectly as the triggering issue and rounded the whole thing out.
+On Johnsons Syndrome itself, I created that from an assortment of smaller ideas. The first thing I came up with was actually the colloquialism "Modder's Rot", followed pretty quickly by the primary symptom, cell death. I then worked up a reasonably plausible mutation that could go awry. After running a draft by my science teacher, she pointed out to me that the mutation would likely be to the regulatory systems of miotic division. Finally while I was researching, I came across the fact that CRISPR can fail to deactivate which worked perfectly as the triggering issue and rounded the whole thing out.
 
-The final major case I drew inspiration from was the cancer cases cause by Glyphosate based weed killers. CRISPR, just like those weed killers seems like a miracle substance. Cheap, highly effective, and extremely powerful. Unfortunately, such things are usually not without serious drawbacks that come out later. CRISPR's are just starting to show so I wanted to bring them forward and emphasize them
+The final major case I drew inspiration from was the cancer cases cause by Glyphosate based weed killers. CRISPR, just like those weed killers seems like a miracle substance. Cheap, highly effective, and extremely powerful. Unfortunately, such things are usually not without serious drawbacks that come out later. CRISPR's drawbacks are just starting to show so I wanted to bring them forward and emphasize them.
 
 ---
 # Citations
