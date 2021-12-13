@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/marked@4.0.7/marked.min.js"></script>
         <title>2040 - The Age of Genetics</title>
     </head>
     <body>
@@ -18,7 +18,7 @@
                     markdown = xhr.responseText;
                 
                     console.log(markdown);
-                    document.getElementById('content').innerHTML = marked(markdown);
+                    document.getElementById('content').innerHTML = marked.parse(markdown);
                 }
             }
             xhr.open('GET', 'markdown/AOG.md');
