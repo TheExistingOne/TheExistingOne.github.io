@@ -102,7 +102,7 @@ NeverMod is a protest group dedicated to fighting the rise of modding. They've o
 # Additional Info
 
 ## Johnsons Syndrome
-Johnsons syndrome is a debilitating condition caused by a failed gene mod. It generally has an onset of around 1 year and initially manifests as tissue soreness and discoloration followed by rapid apoptosis. Initially identified by doctors in mid 2032, it was reasonably supressed by the AGA and GenTech until 2035 when the issue became too major to ignore and was declared a public health crisis by the CDC. 
+Johnsons syndrome is a debilitating condition caused by a failed gene mod. It generally has an onset of aroWund 1 year and initially manifests as tissue soreness and discoloration followed by rapid apoptosis. Initially identified by doctors in mid 2032 when Andrews Johnson reported to the ER with seeming tissue, it was reasonably supressed by the AGA and GenTech until 2035 when the issue became too major to ignore and was declared a public health crisis by the CDC. 
 
 While the exact specifics of how the condition manifest are not understood it is generally considered to be related to the genes that control miotic division. Most gene mods require a full miotic cycle to manifest which can take months. To accelerate this, mods also make a temporary modification to the miotic cycle of the cell, causing miosis to be drastically accelerated. In some cases, a faulty mod can cause an overactivation of CRISPR leading the cell to rapidly age out of control. 
 
