@@ -6,9 +6,14 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="../../css/blog-boilerplate.css">
         <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
         <title>Blog - Rebuild Demo - Post Mortem</title>
     </head>
     <body>
+        <script>
+            mermaid.initialize({ startOnLoad: true });
+        </script>
+
         <div class=navbar>
             <ul>
                 <li><a href="/index.html">Home</a></li>
@@ -16,6 +21,7 @@
                 <li><a href="/school.html">Schoolwork</a></li>
             </ul>
         </div>
+
         <div class="margins">
             <div id="content"></div>
             <script defer>
@@ -34,6 +40,7 @@
                 xhr.open('GET', '../markdown/rebuild.md');
                 xhr.send();
             </script>
+            
             <noscript>
                 <p>
                     Hey! I use javascipt to render the markdown that I write these posts in.
