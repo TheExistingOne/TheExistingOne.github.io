@@ -1,14 +1,14 @@
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="en_US"> 
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="../../css/blog-boilerplate.css">
-        <title>Blog - Test Blog</title>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <title>Blog - Rebuild Demo - Post Mortem</title>
     </head>
     <body>
-        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
         <div class=navbar>
             <ul>
                 <li><a href="/index.html">Home</a></li>
@@ -31,7 +31,7 @@
                         document.getElementById('content').innerHTML = marked.parse(markdown);
                     }
                 }
-                xhr.open('GET', '../markdown/test.md');
+                xhr.open('GET', '../markdown/rebuild.md');
                 xhr.send();
             </script>
             <noscript>
