@@ -34,7 +34,9 @@ With my tools set out I wrote out a list of features and ideas I wanted to look 
 That's more than I can prototype during the month alotted for the project, so I narrowed it down to just the building and exploration systems. With game systems in mind, I sat down and started drafting and sketching out ideas, starting with the exploration system.
 
 ##### Step 2.1: Exploration
-![](mialikestech.dev/blog/files/ExplorationNotes.jpg)
+
+![](https://www.mialikestech.dev/blog/files/ExplorationNotes.jpg)
+
 I wanted to build the exploration system on an isometric grid without jumping. To prevent unneccesarily confusing controls I mapped up to vertical relative to the screen instead of vertical relative to the tiles. With the basic decisions made, I moved on to prototyping the actual gameplay systems, starting with the stats system. I knew that I wanted to track around 3 stats and wanted them to interact with each other instead of draining seperately. With this in mind, I came up with the 3 stats and the following interactions:
 
 |Stat|Behavior|
@@ -44,7 +46,8 @@ I wanted to build the exploration system on an isometric grid without jumping. T
 |Energy|Drained by most tasks - Replenished by resting|
 
 I also mocked up the UI in aseprite which wound up looking like this:
-![](mialikestech.dev/blog/files/ExploreMode.png)
+
+![](https://www.mialikestech.dev/blog/files/ExploreMode.png)
 
 With the mockup done I could move on to implementing the system in engine.
 
@@ -55,7 +58,7 @@ Specifically, I asked a couple of gaming and development oriented discord commun
 
 Unfortunately this is where I wound up leaving the build system. With the process of learning a new game engine, juggling other work, and implementing the exploration system I just didn't have enough time to implement something as complicated as a building system. It's current state is a page of notes and a concept sketch.
 
-![](mialikestech.dev/blog/files/BuildingNotes.jpg)
+![](https://www.mialikestech.dev/blog/files/BuildingNotes.jpg)
 
 #### Step 2 Takeaways:
 First some stuff that worked really well: 
@@ -72,7 +75,7 @@ Prototyping done, I could finally bring everything into the engine. The stats sy
 
 In addition to implementing my prototypes I also followed a wonderful tutorial from the channel Arkeve to implement an inventory system. Since it's super similar to theirs I won't touch on it much here, but it winds up working really well.
 
-![](mialikestech.dev/blog/files/Inventory.png)
+![](https://www.mialikestech.dev/blog/files/Inventory.png)
 
 #### Step 3 Takeaways:
 The implementation is another point where it became very obvious how this project was too big for the time alotted. While I'm really proud of the systems I do have implemented, I just didn't get time to implement even the basics of a lot of things I wanted to and that leads to the final product feeling really basic and kind of unimpressive
